@@ -8,4 +8,4 @@
 5. 对于作业和授课内容存在问题，除微信邮箱等方式外，也可在本项目中提交issue。
 
 ## 作业发布
-1. 第一周：[20220305](https://raw.githubusercontent.com/jiangxiang/JSNU_cpp_tutorial/main/20220305.md)
+1. 第一周：[20220305](https://github.com/jiangxiang/JSNU_cpp_tutorial/blob/main/20220305.md)
